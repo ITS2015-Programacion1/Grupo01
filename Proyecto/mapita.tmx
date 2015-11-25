@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="a" tilewidth="32" tileheight="32">
+  <image source="Escritorio/chibihikaru-tilea2.png" width="512" height="384"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxby8DAMHeA8Doo3TBAGOaOUftRMS8SptQOfGYNRftzCWBq2E8vPGr/qP2j9o/aT4oeUss/cuwfzOX/SLCfXnjUfgaGvUjuoDfeB8QAD4J7Ug==
+  </data>
+ </layer>
+ <objectgroup name="paredes">
+  <object x="162.667" y="125.333" width="90.6667" height="93.3333"/>
+  <object x="770.667" y="133.333" width="92" height="89.3333"/>
+  <object x="157.333" y="544" width="100" height="94.6667"/>
+  <object x="386.667" y="514.667" width="253.333" height="28"/>
+  <object x="388" y="192" width="253.333" height="36"/>
+  <object x="772" y="545.333" width="90.6667" height="92"/>
+  <object x="0" y="1.33333" width="32" height="761.333"/>
+  <object x="36" y="4" width="985.333" height="26.6667"/>
+  <object x="993.333" y="34.6667" width="28" height="733.333"/>
+  <object x="37.3333" y="738.667" width="954.667" height="26.6667"/>
+  <object gid="13" x="768" y="160"/>
+  <object gid="13" x="801.333" y="160"/>
+  <object gid="13" x="830.667" y="160"/>
+  <object gid="13" x="768" y="192"/>
+  <object gid="13" x="801.333" y="192"/>
+  <object gid="13" x="833.333" y="193.333"/>
+  <object gid="13" x="768" y="224"/>
+  <object gid="13" x="800" y="222.667"/>
+  <object gid="13" x="833.333" y="224"/>
+  <object gid="13" x="768" y="580"/>
+  <object gid="13" x="800" y="580"/>
+  <object gid="13" x="833.333" y="580"/>
+  <object gid="13" x="770.667" y="608"/>
+  <object gid="13" x="802.667" y="610.667"/>
+  <object gid="13" x="830.667" y="608"/>
+  <object gid="13" x="770.667" y="638.667"/>
+  <object gid="13" x="801.333" y="638.667"/>
+  <object gid="13" x="833.333" y="641.333"/>
+  <object gid="13" x="161.333" y="577.333"/>
+  <object gid="13" x="192" y="576"/>
+  <object gid="13" x="225.333" y="577.333"/>
+  <object gid="13" x="160" y="609.333"/>
+  <object gid="13" x="190.667" y="606.667"/>
+  <object gid="13" x="225.333" y="606.667"/>
+  <object gid="13" x="162.667" y="640"/>
+  <object gid="13" x="193.333" y="640"/>
+  <object gid="13" x="225.333" y="638.667"/>
+  <object gid="13" x="164" y="158.667"/>
+  <object gid="13" x="193.333" y="158.667"/>
+  <object gid="13" x="224" y="157.333"/>
+  <object gid="13" x="161.333" y="192"/>
+  <object gid="13" x="192" y="192"/>
+  <object gid="13" x="224" y="190.667"/>
+  <object gid="13" x="161.333" y="222.667"/>
+  <object gid="13" x="190.667" y="224"/>
+  <object gid="13" x="222.667" y="224"/>
+ </objectgroup>
+</map>

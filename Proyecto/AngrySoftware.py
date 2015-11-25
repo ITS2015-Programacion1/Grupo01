@@ -22,7 +22,7 @@ class opciones(pilasengine.escenas.Escena):
 
 class iniciarjuego(pilasengine.escenas.Escena):
     def iniciarjueguito():
-        fondoDelJuego = pilas.actores.MapaTiled('Mapa.tmx')
+        fondoDelJuego = pilas.actores.MapaTiled('mapita.tmx')
         puntos = pilas.actores.Puntaje(x=400, y=170)
         cajas = []    
         class SoftwareLibre(pilasengine.actores.Actor):
